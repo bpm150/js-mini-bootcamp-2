@@ -1,0 +1,14 @@
+Javascript workshop part 2
+Adrianne
+
+Wifi: Galvanize Guest
+Pwd: beapineapple
+
+While loop
+For loop
+Array
+Object
+Higher Order Functions
+
+
+
